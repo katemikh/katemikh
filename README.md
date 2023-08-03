@@ -19,7 +19,8 @@ I have 10+ years of experience in travel and aviation industries. I decided to c
 
 ![](https://komarev.com/ghpvc/?username=katemikh&color=brightgreen&label=PROFILE+VIEWS)
 
-### Languages and Tools:
+### 💻 Languages and Tools:
+<!-- ### 💻 Tech Stack: -->
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-808080?style=for-the-badge&logo=HTML5">
@@ -53,13 +54,16 @@ I have 10+ years of experience in travel and aviation industries. I decided to c
 
 <br>
 
+### 📊 GitHub Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=katemikh&theme=algolia&show_icons=true)](https://github.com/katemikh) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katemikh&theme=tokyonight)
 
 ### 👨‍💻 Some of my projects are available at:
 [Kateryna Mikhailiuk Portfolio](https://kateryna-mikhailiuk-portfolio.glitch.me/)
 
 ### 🥊 My page on CodeWars
-![Codewars <a href="https://www.codewars.com/users/katemikh"></a>](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/katemikh)
+
 
 ---
 
