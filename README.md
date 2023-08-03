@@ -59,7 +59,7 @@ I have 10+ years of experience in travel and aviation industries. I decided to c
 [Kateryna Mikhailiuk Portfolio](https://kateryna-mikhailiuk-portfolio.glitch.me/)
 
 ### 🥊 My page on CodeWars
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Codewars <a href="https://www.codewars.com/users/katemikh"></a>](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 ---
 
